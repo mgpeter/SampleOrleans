@@ -5,4 +5,5 @@ Mainly a simple starter debug codebase to experiment with Orleans. Includes basi
 
 ## Requirements
 
-For ease of use, install Orleans framework addin for Visual Studio: https://marketplace.visualstudio.com/items?itemName=sbykov.MicrosoftOrleansToolsforVisualStudio
+ - .NET Framework 4.6.2: https://www.microsoft.com/en-us/download/details.aspx?id=53321
+ - For ease of use, install Orleans framework addin for Visual Studio: https://marketplace.visualstudio.com/items?itemName=sbykov.MicrosoftOrleansToolsforVisualStudio
